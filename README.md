@@ -24,14 +24,13 @@
 
 <a href="https://github.com/LycantraLyvi">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LycantraLyvi&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=LycantraLyvi&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LycantraLyvi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LycantraLyvi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
 </a>
 
 </div>
-
 ---
 
 ## 🧑‍💻 Sobre mim
@@ -42,9 +41,9 @@
 │  🎓  Formada em Tecnologia                          │
 │  💻  Desenvolvedora em constante evolução           │
 │  🐧  Usuária e entusiasta do Linux                  │
-│  🔐  Estudando Cybersecurity                         │
+│  🔐  Estudando Cybersecurity                        │
 │  ⚙️  Automação e desenvolvimento de ferramentas     │
-│  🚀  Sempre explorando novas tecnologias             │
+│  🚀  Sempre explorando novas tecnologias            │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```
@@ -134,12 +133,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=LycantraLyvi&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
-<br><br>
-
-```text
-> Keep learning.
-> Keep building.
-> Keep exploring.
-```
 
 </div>
