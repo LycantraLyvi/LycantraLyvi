@@ -9,7 +9,7 @@ Atualmente, aprofundando meus conhecimentos em Linux, Python e segurança da inf
 
 <br>
 
-<img src="https://img.shields.io/github/followers/LycantraLyvi?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="Seguidores no GitHub">
+
 
 
 </div>
