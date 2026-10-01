@@ -64,15 +64,6 @@ Sistema desenvolvido durante meu estágio na SEMSEG, voltado ao gerenciamento de
 
 Projeto pessoal em desenvolvimento, no qual estou aprimorando minhas habilidades em programação e desenvolvimento de aplicações.
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Explorar_Projetos-GitHub-181717?style=for-the-badge&logo=github" alt="Explorar projetos">
-
-</div>
-
-Confira meus repositórios:
-
-https://github.com/LycantraLyvi?tab=repositories
 
 ---
 
