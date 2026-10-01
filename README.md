@@ -39,7 +39,7 @@ Atualmente, aprofundando meus conhecimentos em Linux, Python e segurança da inf
 />
 
 </div>
----
+
 
 ## 👩‍💻 Sobre mim
 
