@@ -1,24 +1,44 @@
 <div align="center">
 
-# Olá, eu sou Vitória Beatriz! 👋
+# 👋 Olá, eu sou Vitória Beatriz!
 
-### 💻 Suporte de TI | 🐧 Linux | 🔐 Cybersecurity | ⚙️ Desenvolvimento
+### 💻 Suporte de TI · 🐧 Linux · 🔐 Cybersecurity · ⚙️ Desenvolvimento
 
 Profissional de TI com experiência prática em suporte e desenvolvimento de soluções.
 Atualmente, aprofundando meus conhecimentos em Linux, Python e segurança da informação.
 
 <br>
 
-<a href="https://github.com/LycantraLyvi">
-  <img src="https://img.shields.io/github/followers/LycantraLyvi?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="Seguidores no GitHub">
-</a>
+<img src="https://img.shields.io/github/followers/LycantraLyvi?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="Seguidores no GitHub">
 
-<a href="https://github.com/LycantraLyvi?tab=repositories">
-  <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github" alt="Meus projetos">
-</a>
 
 </div>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=LycantraLyvi&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LycantraLyvi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas">
+
+</div>
+
+<br>
+
+## 📅 Minhas contribuições
+
+<div align="center">
+
+<img
+  src="https://gh-heat.anishroy.com/api/LycantraLyvi/svg?theme=green&darkMode=true&bg=0d1117"
+  alt="Calendário de contribuições do GitHub"
+  width="100%"
+/>
+
+</div>
 ---
 
 ## 👩‍💻 Sobre mim
@@ -39,7 +59,7 @@ Busco oportunidades na área de TI para aplicar meus conhecimentos, contribuir c
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos 
 
 ### 🎫 Sistema de Chamados
 
@@ -49,9 +69,15 @@ Sistema desenvolvido durante meu estágio na SEMSEG, voltado ao gerenciamento de
 
 Projeto pessoal em desenvolvimento, no qual estou aprimorando minhas habilidades em programação e desenvolvimento de aplicações.
 
-Confira meus repositórios para acompanhar meus projetos e minha evolução:
+<div align="center">
 
-[![Meus repositórios](https://img.shields.io/badge/Explorar_Projetos-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/LycantraLyvi?tab=repositories)
+<img src="https://img.shields.io/badge/Explorar_Projetos-GitHub-181717?style=for-the-badge&logo=github" alt="Explorar projetos">
+
+</div>
+
+Confira meus repositórios:
+
+https://github.com/LycantraLyvi?tab=repositories
 
 ---
 
@@ -61,7 +87,7 @@ Confira meus repositórios para acompanhar meus projetos e minha evolução:
 
 ### 💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Linguagens de programação e desenvolvimento">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Linguagens de programação">
 
 <br><br>
 
@@ -79,30 +105,3 @@ Confira meus repositórios para acompanhar meus projetos e minha evolução:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/LycantraLyvi">
-
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=LycantraLyvi&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub">
-
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LycantraLyvi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas">
-
-</a>
-
-</div>
-
----
-
-## 🎯 Atualmente
-
-```text
-[ STATUS ]
-
-> Buscando oportunidades na área de TI
-> Desenvolvendo projetos pessoais
-> Aprimorando conhecimentos em Linux
-> Estudando Cybersecurity
-> Praticando Python e programação
-> Explorando automação e novas tecnologias
