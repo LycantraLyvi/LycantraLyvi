@@ -2,19 +2,20 @@
 
 # Olá, eu sou Vitória Beatriz! 👋
 
-### 💻 Suporte de TI · 🐧 Linux · 🔐 Cybersecurity · ⚙️ Desenvolvimento
+### 💻 Suporte de TI | 🐧 Linux | 🔐 Cybersecurity | ⚙️ Desenvolvimento
 
-Profissional de TI, formada na área de tecnologia, com experiência prática em suporte e desenvolvimento de soluções.
+Profissional de TI com experiência prática em suporte e desenvolvimento de soluções.
 Atualmente, aprofundando meus conhecimentos em Linux, Python e segurança da informação.
 
-<p>
-  <a href="https://github.com/LycantraLyvi">
-    <img src="https://img.shields.io/github/followers/LycantraLyvi?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/LycantraLyvi?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/LycantraLyvi">
+  <img src="https://img.shields.io/github/followers/LycantraLyvi?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="Seguidores no GitHub">
+</a>
+
+<a href="https://github.com/LycantraLyvi?tab=repositories">
+  <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github" alt="Meus projetos">
+</a>
 
 </div>
 
@@ -28,27 +29,29 @@ Tenho interesse em resolução de problemas, suporte técnico, desenvolvimento d
 
 Atualmente, estou direcionando meus estudos para:
 
-- 🖥️ Suporte técnico, help desk e service desk
+- 🖥️ Suporte técnico, Help Desk e Service Desk
 - 🐧 Linux e administração de sistemas
 - 🐍 Python e desenvolvimento de ferramentas
-- 🔐 Segurança da informação e cybersecurity
+- 🔐 Segurança da informação e Cybersecurity
 - ⚙️ Automação e melhoria de processos
 
-Busco oportunidades para aplicar meus conhecimentos, contribuir com equipes de tecnologia e continuar evoluindo profissionalmente.
+Busco oportunidades na área de TI para aplicar meus conhecimentos, contribuir com equipes de tecnologia e continuar evoluindo profissionalmente.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
 ### 🎫 Sistema de Chamados
-Sistema desenvolvido durante meu estágio na SEMSEG, voltado ao gerenciamento de chamados.
 
-**Foco:** organização de solicitações e apoio aos processos de suporte.
+Sistema desenvolvido durante meu estágio na SEMSEG, voltado ao gerenciamento de chamados e à organização de solicitações de suporte.
 
 ### 🔐 LoneVault
-Projeto pessoal em desenvolvimento, com foco na criação de uma aplicação e no aprofundamento dos meus conhecimentos em programação.
 
-> Confira os repositórios para acompanhar a evolução dos projetos e os detalhes de implementação.
+Projeto pessoal em desenvolvimento, no qual estou aprimorando minhas habilidades em programação e desenvolvimento de aplicações.
+
+Confira meus repositórios para acompanhar meus projetos e minha evolução:
+
+[![Meus repositórios](https://img.shields.io/badge/Explorar_Projetos-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/LycantraLyvi?tab=repositories)
 
 ---
 
@@ -56,17 +59,21 @@ Projeto pessoal em desenvolvimento, com foco na criação de uma aplicação e n
 
 <div align="center">
 
-### Linguagens e desenvolvimento
+### 💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Linguagens de programação e desenvolvimento">
 
-### Ferramentas
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+### ⚙️ Ferramentas
 
-### Sistemas operacionais
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" alt="Ferramentas de desenvolvimento">
 
-<img src="https://skillicons.dev/icons?i=linux,kali" />
+<br><br>
+
+### 🐧 Sistemas operacionais
+
+<img src="https://skillicons.dev/icons?i=linux,kali" alt="Linux e Kali Linux">
 
 </div>
 
@@ -77,8 +84,11 @@ Projeto pessoal em desenvolvimento, com foco na criação de uma aplicação e n
 <div align="center">
 
 <a href="https://github.com/LycantraLyvi">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LycantraLyvi&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LycantraLyvi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=LycantraLyvi&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LycantraLyvi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas">
+
 </a>
 
 </div>
@@ -88,38 +98,11 @@ Projeto pessoal em desenvolvimento, com foco na criação de uma aplicação e n
 ## 🎯 Atualmente
 
 ```text
-[ CURRENT STATUS ]
+[ STATUS ]
 
 > Buscando oportunidades na área de TI
 > Desenvolvendo projetos pessoais
-> Aprofundando conhecimentos em Linux
-> Estudando cybersecurity
-> Aprimorando minhas habilidades em Python
+> Aprimorando conhecimentos em Linux
+> Estudando Cybersecurity
+> Praticando Python e programação
 > Explorando automação e novas tecnologias
-```
-
----
-
-## 📫 Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://github.com/LycantraLyvi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/vit%C3%B3ria-beatriz-felix-mota-b09924180/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@Lycantra_Lyvi">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Obrigada por visitar meu perfil!
-
-</div>
