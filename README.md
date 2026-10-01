@@ -41,21 +41,13 @@ Atualmente, aprofundando meus conhecimentos em Linux, Python e segurança da inf
 </div>
 
 
+
 ## 👩‍💻 Sobre mim
 
-Sou formada na área de Tecnologia da Informação e tenho experiência prática adquirida durante meu estágio na **Secretaria Municipal de Segurança Pública e Defesa Social (SEMSEG)**, onde desenvolvi um sistema de chamados.
+Sou formada em Tecnologia da Informação e possuo experiência prática adquirida durante meu estágio na **Secretaria Municipal de Segurança Pública e Defesa Social (SEMSEG)**, em Manaus, onde desenvolvi um sistema de chamados para auxiliar na organização e no atendimento de demandas.
 
-Tenho interesse em resolução de problemas, suporte técnico, desenvolvimento de ferramentas e automação de tarefas.
+Tenho interesse em **suporte técnico, resolução de problemas, desenvolvimento de sistemas e automação de tarefas**. Atualmente, sigo aprimorando minhas habilidades em Linux, programação e cybersecurity, buscando novos desafios e oportunidades para crescer profissionalmente na área de TI.
 
-Atualmente, estou direcionando meus estudos para:
-
-- 🖥️ Suporte técnico, Help Desk e Service Desk
-- 🐧 Linux e administração de sistemas
-- 🐍 Python e desenvolvimento de ferramentas
-- 🔐 Segurança da informação e Cybersecurity
-- ⚙️ Automação e melhoria de processos
-
-Busco oportunidades na área de TI para aplicar meus conhecimentos, contribuir com equipes de tecnologia e continuar evoluindo profissionalmente.
 
 ---
 
@@ -64,6 +56,9 @@ Busco oportunidades na área de TI para aplicar meus conhecimentos, contribuir c
 ### 🎫 Sistema de Chamados
 
 Sistema desenvolvido durante meu estágio na SEMSEG, voltado ao gerenciamento de chamados e à organização de solicitações de suporte.
+
+<a href="https://github.com/LycantraLyvi/SITE_SEMSEG"> Repositório Privado
+</a>
 
 ### 🔐 LoneVault
 
