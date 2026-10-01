@@ -57,13 +57,14 @@ Tenho interesse em **suporte técnico, resolução de problemas, desenvolvimento
 
 Sistema desenvolvido durante meu estágio na SEMSEG, voltado ao gerenciamento de chamados e à organização de solicitações de suporte.
 
-<a href="https://github.com/LycantraLyvi/SITE_SEMSEG"> Repositório Privado
+<a href="https://github.com/LycantraLyvi/SITE_SEMSEG"> Repositório Privado.
 </a>
 
 ### 🔐 LoneVault
 
 Projeto pessoal em desenvolvimento, no qual estou aprimorando minhas habilidades em programação e desenvolvimento de aplicações.
 
+<a href="https://github.com/LycantraLyvi/LoneVault"> Repositório LoneVault.
 
 ---
 
